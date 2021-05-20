@@ -1,0 +1,1 @@
+INSERT INTO Products ('name', 'productId') VALUES ('shirt', 1)
